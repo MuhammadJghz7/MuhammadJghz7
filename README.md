@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate developer from Iran</h3>
 
 - 🔭 I’m currently working on **Solar Physics**
 
