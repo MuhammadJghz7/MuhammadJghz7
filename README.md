@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/muhammad-jafargholizadeh-171172233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadjghz7" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadjghz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadjghz7" height="30" width="40" /></a>
 <a href="https://discord.gg/Muhammadjghz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Muhammadjghz7" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
