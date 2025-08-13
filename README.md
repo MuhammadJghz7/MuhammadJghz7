@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Solar Physics**
 
 - 📫 How to reach me **Mr.jafargholizadeh7@gmail.com**
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
