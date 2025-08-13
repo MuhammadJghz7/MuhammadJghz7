@@ -28,4 +28,4 @@
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadjghz7&theme=transparent&exclude=python,html,css,java" /> </p>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadjghz7&theme=transparent&" /></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadjghz7&theme=transparent&utcOffset=+3.30" /></p>
