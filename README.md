@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjghz7&" alt="muhammadjghz7" /></p>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadjghz7&theme=transparent&exclude=python,html,css,java,java%20sript" /> </p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadjghz7&theme=transparent&exclude=python,html,css,java" /> </p>
