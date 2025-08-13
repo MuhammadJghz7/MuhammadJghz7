@@ -25,3 +25,5 @@
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjghz7&" alt="muhammadjghz7" /></p>
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
