@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjghz7&" alt="muhammadjghz7" /></p>
 
+![muhammadjghz7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadjghz7&theme=blue-green&hide_border=true)
+
 ![muhammadjghz7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjghz7&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadjghz7&theme=transparent&utcOffset=+3.30" /></p>
